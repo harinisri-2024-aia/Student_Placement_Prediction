@@ -77,7 +77,7 @@ Interactive Streamlit app for real-time predictions
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/Student_Placement_Prediction.git
+git clone https://github.com/harinisri-2024-aia/Student_Placement_Prediction.git
 cd Student_Placement_Prediction
 
 
@@ -108,3 +108,4 @@ Helps students understand factors affecting employability
 Enables institutions to improve placement outcomes
 
 Demonstrates full end-to-end data science workflow
+
